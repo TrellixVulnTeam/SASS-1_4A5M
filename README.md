@@ -1,12 +1,12 @@
 # CSS AND SASS PROJECT 1
-## Go to the Project Page
+### :point_right: Go to the Project Page
 https://gulcanc.github.io/GC-SASS-1/
 
-## About the Project
+### :point_right: About the Project
 This is my first personal advance CSS and Sass project after I have learned the advance CSS, Sass properties with UDEMY-course project. 
 It was so enjoyable creating this colorful and well-designed project. I have used complex CSS animations, advanced responsive design techniques, flexbox layouts, Sass, CSS architecture, fundamental CSS concepts, and so much more.
 
-## Technologies & Techniques Used:
+### :point_right: Technologies & Techniques Used:
 •	Advanced CSS animations with @keyframes, animation and transition
 
 •	Using Sass: global variables, architecting CSS, managing media queries, etc.
