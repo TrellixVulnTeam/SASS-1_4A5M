@@ -1,4 +1,4 @@
-# ADVANCE CSS AND SASS PROJECT 1
+# CSS AND SASS PROJECT 1
 # Go to the Project Page
 https://gulcanc.github.io/GC-SASS-1/
 
